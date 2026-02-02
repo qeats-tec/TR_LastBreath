@@ -23,10 +23,10 @@
 0,SansText,ve sonuncunda bu      yeraltindaki herkes huzur       icinde olabilirdi.,,,,,,,
 0,SansHead,Wink,,,,,,,
 0,SansText,ama artik cok gec...,,,,,,,
-0,SansText,now you will face out            your consequences...,,,,,,,
+0,SansText,simdi ise bu yaptiklarin ile yuzleseceksin!!      kucuk SEYTAN...,,,,,,,
 0,SansHead,NoEyes,,,,,,,
 0,Sound,4,0,,,,,,
-0,SansText,that driven you into this.,,,,,,,
+0,SansText,iste seni buraya suruklememin nedeni buydu.     KAYBEDECEKSiN!,,,,,,,
 0,Sound,3,,,,,,,
 ,,,,,,,,,
 0,CombatZoneResizeInstant,133,251,508,391,,,,
@@ -421,6 +421,7 @@
 2,Sound,HeartShatter,1,,,,,,
 ,Sound,HeartShatter,1,,,,,,
 0,SansX,6666,,,,,,,
+
 
 
 
